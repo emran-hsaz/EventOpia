@@ -1,0 +1,6 @@
+[submodule "EventOpia-Frontend"]
+	path = EventOpia-Frontend
+	url = https://github.com/Abdullah-N-B-Y/EventOpia-Frontend.git
+[submodule "EventOpia"]
+	path = EventOpia
+	url = https://github.com/Abdullah-N-B-Y/EventOpia.git
